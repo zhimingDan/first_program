@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter19/QQClinet/QQClinet.iml" filepath="$PROJECT_DIR$/chapter19/QQClinet/QQClinet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/QQServer/QQServer.iml" filepath="$PROJECT_DIR$/chapter19/QQServer/QQServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/chapter07/chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/chapter08/chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/chapter09/chapter09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/chapter11/chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/chapter12/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/chapter13/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/chapter14/chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/chapter16/chapter16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17/chapter17.iml" filepath="$PROJECT_DIR$/chapter17/chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/chapter18.iml" filepath="$PROJECT_DIR$/chapter18/chapter18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/chapter19.iml" filepath="$PROJECT_DIR$/chapter19/chapter19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20/chapter20.iml" filepath="$PROJECT_DIR$/chapter20/chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21/chapter21.iml" filepath="$PROJECT_DIR$/chapter21/chapter21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_program.iml" filepath="$PROJECT_DIR$/first_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study2/study2.iml" filepath="$PROJECT_DIR$/study2/study2.iml" />
+    </modules>
+  </component>
+</project>
