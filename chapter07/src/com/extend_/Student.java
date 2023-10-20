@@ -5,14 +5,19 @@ public class Student { //编写一个父类
     public int age;
     private double score;
 
-    public Student(){
+    public Student() {
         System.out.println("父类的无参构造器被调用");
     }
+
     public void setScore(double score) {
         this.score = score;
     }
 
-    public void info(){
+    public double getScore() {
+        return this.score;
+    }
+
+    public void info() {
         System.out.println("name:" + name + " age:" + age + " score:" + score);
     }
 }
