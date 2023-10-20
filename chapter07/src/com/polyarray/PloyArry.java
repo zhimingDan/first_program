@@ -2,6 +2,7 @@ package com.polyarray;
 
 public class PloyArry {
     public static void main(String[] args) {
+        // 代码Person[] person  -> 是错误的，虽然最后指向的是子类对象的空间，但是还是要为其开辟空间
         Person[] person = new Person[5];  //定义一个Peron类型的数组，里面的数据类型都是Person类型
         //因为Person是父类类型，是可以指向子类的
         //下列就是利用多态中的向上转型，左边的编译类型是Person,右边的运行类型是子类类型
