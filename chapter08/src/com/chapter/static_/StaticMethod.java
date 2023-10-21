@@ -35,6 +35,7 @@ class Student{
 //        this.fee += fee;  //在非静态方法中，可以直接使用this.变量名直接访问静态变量
 //    }
     public static void payFee(double fee){
+        // 静态方法中不允许出现和对象相关的关键字this和super
         //this.fee += fee;  //可以发现在静态方法中，不能直接使用this.变量名来访问静态变量
         Student.fee += fee; //只能使用类名.变量名来访问静态变量
     }

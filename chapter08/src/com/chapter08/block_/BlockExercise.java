@@ -7,6 +7,11 @@ public class BlockExercise {
     }
 }
 
+// 首先，因为TestA类被实例化(类加载)，此时判断TestA类中的父类是否有静态变量和静态代码块，先初始化父类的
+// 然后回到TestA本类中来执行静态变量和静态代码块
+// 然后执行普通变量和普通代码块
+// 最后再执行父类的构造器然后是子类的构造器
+
 class TestA{
     TestB b1 = new TestB();  //相当于普通属性的初始化
     //TestB static B2 = new TestB(); //这样的语法是错误的
