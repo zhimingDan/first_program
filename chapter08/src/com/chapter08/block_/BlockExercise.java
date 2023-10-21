@@ -4,6 +4,7 @@ package com.chapter08.block_;
 public class BlockExercise {
     public static void main(String[] args) {
         TestA a = new TestA();
+        // A类被实例化(类加载)
     }
 }
 
