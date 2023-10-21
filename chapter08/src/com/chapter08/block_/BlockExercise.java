@@ -1,6 +1,7 @@
 package com.chapter08.block_;
 
 //分析一下代码的输出结果
+// 心里一定要时刻牢记代码执行的先后顺序
 public class BlockExercise {
     public static void main(String[] args) {
         TestA a = new TestA();
