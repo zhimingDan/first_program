@@ -7,7 +7,6 @@ public class StaticMethod {
         Student jack = new Student("jack");
         jack.payFee(200);//用变量名来调用
         Student.showFee();//用类名来调用
-
     }
 }
 

@@ -1,5 +1,5 @@
 package com.chapter08.innerclass_.anonymous_;
-
+// 匿名内部类的使用
 public class AnonymousInnerClass {
     public static void main(String[] args) {
         Outer outer = new Outer();
